@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b42f1873.css",
+    "main.js": "/static/js/main.927839c8.js",
+    "static/media/netflix.png": "/static/media/netflix.7509a7fe92c820a41477.png",
+    "static/media/flipkart.png": "/static/media/flipkart.40a2560b6debe4b5aea3.png",
+    "static/media/todo.png": "/static/media/todo.b7b20d9cfab929730d5f.png",
+    "static/media/Vibhuti.png": "/static/media/Vibhuti.725d3b2a64108c469587.png",
+    "static/media/spotify.png": "/static/media/spotify.71c8e9c42f5d7f8f4190.png",
+    "static/media/resume.pdf": "/static/media/resume.8da8f29159828e9f1a68.pdf",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/graduation-cap.svg": "/static/media/graduation-cap.c6448b01991281d607c555d3a0cf1d6c.svg",
+    "index.html": "/index.html",
+    "main.b42f1873.css.map": "/static/css/main.b42f1873.css.map",
+    "main.927839c8.js.map": "/static/js/main.927839c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b42f1873.css",
+    "static/js/main.927839c8.js"
+  ]
+}

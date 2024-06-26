@@ -1,0 +1,53 @@
+.education {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+}
+
+.education > span:nth-of-type(1) {
+    color: var(--black);
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+
+.e-cards {
+    margin-top: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    height: 50vh;
+}
+
+.card1, .card2, .card3 {
+    position: relative;
+}
+.card1{
+    left:-32rem;
+}
+.card2{
+    left:-7rem;
+}
+.card3{
+    left:18rem;
+}
+/* Specific Media Query for max-width: 600px */
+@media screen and (max-width: 600px) {
+    .education {
+        margin-top: -45rem;
+        height: 100rem;
+    }
+    .e-cards {
+        flex-direction: row;
+        align-items: center;
+        gap: 20rem;
+    }
+    .card1, .card2, .card3 {
+        left: auto;
+        width: 100%;
+    }
+
+    .blur.s-blur2 {
+        display: none;
+    }
+}
